@@ -119,7 +119,7 @@ Get the latest stable build of **Musico** directly from official GitHub Releases
 - **Mahmud Tonmoy** (হজবরল তনু)
   - GitHub: [@hozoboroloTonu](https://github.com/hozoboroloTonu)
   - Organization: [NovoSynk](https://github.com/novosynk)
-  - Contact: `troxin.team@gmail.com`
+  - Contact: `musico@novosynk.com`
 
 ### Project Team & Community
 Developed and maintained with the support of the **NovoSynk** community.
