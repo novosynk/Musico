@@ -14,7 +14,7 @@
     A modern, high-performance, and open-source (FOSS) music client crafted for an effortless, ad-free listening experience with high-fidelity audio, synchronized lyrics, offline caching, and a clean interface.
   </p>
 
-  <!-- Badges -->
+  <!-- Essential Badges -->
   <p align="center">
     <a href="https://github.com/novosynk/Musico/releases/latest">
       <img src="https://img.shields.io/github/v/release/novosynk/Musico?style=for-the-badge&color=0284c7&logo=github&logoColor=white&label=Release" alt="Latest Release" />
@@ -22,25 +22,8 @@
     <a href="https://github.com/novosynk/Musico/releases">
       <img src="https://img.shields.io/github/downloads/novosynk/Musico/total?style=for-the-badge&color=16a34a&logo=github&logoColor=white&label=Downloads" alt="Total Downloads" />
     </a>
-    <a href="https://github.com/novosynk/Musico/stargazers">
-      <img src="https://img.shields.io/github/stars/novosynk/Musico?style=for-the-badge&color=ca8a04&logo=github&logoColor=white&label=Stars" alt="GitHub Stars" />
-    </a>
-    <a href="https://github.com/novosynk/Musico/blob/main/LICENSE">
+    <a href="LICENSE">
       <img src="https://img.shields.io/github/license/novosynk/Musico?style=for-the-badge&color=7c3aed&logo=open-source-initiative&logoColor=white&label=License" alt="MIT License" />
-    </a>
-    <img src="https://img.shields.io/badge/Platform-Android%20%7C%20Desktop-059669?style=for-the-badge&logo=android&logoColor=white" alt="Platform" />
-  </p>
-
-  <!-- Quick Action Buttons -->
-  <p align="center">
-    <a href="https://github.com/novosynk/Musico/releases/latest">
-      <img src="https://img.shields.io/badge/Download_Latest_APK-GitHub_Release-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Download Latest Release" />
-    </a>
-    <a href="https://github.com/novosynk/Musico/releases">
-      <img src="https://img.shields.io/badge/All_Releases-Archive-334155?style=for-the-badge&logo=github&logoColor=white" alt="All Releases" />
-    </a>
-    <a href="https://github.com/novosynk/Musico/issues">
-      <img src="https://img.shields.io/badge/Report_an_Issue-GitHub-e11d48?style=for-the-badge&logo=github&logoColor=white" alt="Report Issue" />
     </a>
   </p>
 
@@ -79,15 +62,20 @@ No paywalls, no intrusive commercial advertisements, no tracking, and no complex
 
 ## Download & Installation
 
-Get the latest stable build of **Musico** directly from official GitHub Releases.
+Get the latest stable build of **Musico** for supported platforms directly from GitHub Releases.
 
 <div align="center">
 
-[![Download Musico APK](https://img.shields.io/badge/Download_Musico_APK-Latest_Release-0284c7?style=for-the-badge&logo=android&logoColor=white)](https://github.com/novosynk/Musico/releases/latest)
+[![Download Musico APK](https://img.shields.io/badge/Download_APK-Latest_Release-0284c7?style=for-the-badge&logo=android&logoColor=white)](https://github.com/novosynk/Musico/releases/latest)
+[![All Releases](https://img.shields.io/badge/All_Releases-Archive-334155?style=for-the-badge&logo=github&logoColor=white)](https://github.com/novosynk/Musico/releases)
 
 </div>
 
-### Android Installation
+### Supported Platforms
+- **Android**: Supported via direct `.apk` installation.
+- **Desktop**: Available for Windows, macOS, and Linux builds.
+
+### Android Installation Steps
 1. Navigate to the [Latest Releases](https://github.com/novosynk/Musico/releases/latest) page.
 2. Download the `.apk` package (e.g., `Musico-vX.X.X.apk`).
 3. Open the downloaded file on your device.
@@ -126,17 +114,27 @@ Developed and maintained with the support of the **NovoSynk** community.
 
 ---
 
-## Contributing
+## Contributing & Support
 
-Contributions, feedback, and bug reports are welcome:
+Contributions, feedback, and bug reports are warmly welcome:
 
+<div align="center">
+
+[![Report an Issue](https://img.shields.io/badge/Report_an_Issue-GitHub-e11d48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/novosynk/Musico/issues)
+[![Star Repository](https://img.shields.io/badge/Star_Repository-GitHub-ca8a04?style=for-the-badge&logo=github&logoColor=white)](https://github.com/novosynk/Musico/stargazers)
+
+</div>
+
+### How to Contribute
 1. Fork the repository (`git fork`).
 2. Create your branch (`git checkout -b feature/NewFeature`).
 3. Commit your changes (`git commit -m 'Add NewFeature'`).
 4. Push to branch (`git push origin feature/NewFeature`).
 5. Submit a **Pull Request**.
 
-For bugs or feature requests, open an [Issue](https://github.com/novosynk/Musico/issues).
+For bugs or feature requests, please open an [Issue](https://github.com/novosynk/Musico/issues).
+
+---
 
 ## License & Legal Information
 
