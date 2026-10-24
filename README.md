@@ -78,7 +78,7 @@ Get the latest stable APK directly from official GitHub Releases.
 </div>
 
 ### Installation Steps
-1. Open the [Latest Releases](https://github.com/novosynk/Musico/releases/download/v2.1.1/Musico-v2.1.1.apk) page.
+1. Tap the download button above or grab it from [GitHub Releases](https://github.com/novosynk/Musico/releases).
 2. Download the latest `.apk` package (e.g., `Musico-vX.X.X.apk`).
 3. Open the downloaded file from your device notifications or file manager.
 4. If prompted, grant permission to install applications from your browser or file manager.
