@@ -1,17 +1,17 @@
 <div align="center">
 
   <a href="https://github.com/novosynk/Musico/releases/download/v2.1.1/Musico-v2.1.1.apk">
-    <img src="assets/Banner.png" alt="Musico Banner" width="100%" />
+    <img src="assets/Banner.png" alt="Musico - Ad-Free Open Source Music Streaming App for Android & Desktop" width="100%" />
   </a>
 
   <br />
   <br />
 
   <h1>Musico</h1>
-  <p><b>Feel free when playing music</b></p>
+  <p><b>An elegant, ad-free, open-source music streaming client for Android & Desktop</b></p>
 
   <p align="center">
-    A modern, high-performance, and open-source music streaming client for Android crafted for an effortless, ad-free listening experience with high-fidelity audio, synchronized lyrics, offline caching, and a clean interface.
+    Crafted for an effortless, ad-free listening experience with high-fidelity audio, background playback, real-time synchronized lyrics, and offline caching.
   </p>
 
   <p align="center">
@@ -26,7 +26,7 @@
 
   <p align="center">
     <a href="https://github.com/novosynk/Musico/releases/download/v2.1.1/Musico-v2.1.1.apk">
-      <img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" width="220" alt="Get it on GitHub" />
+      <img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" width="220" alt="Download Musico APK on GitHub Releases" />
     </a>
   </p>
 
@@ -72,7 +72,7 @@ Get the latest stable APK directly from official GitHub Releases.
 <div align="center">
 
 <a href="https://github.com/novosynk/Musico/releases/download/v2.1.1/Musico-v2.1.1.apk">
-  <img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" width="220" alt="Get it on GitHub" />
+  <img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" width="220" alt="Download Musico APK on GitHub Releases" />
 </a>
 
 </div>
